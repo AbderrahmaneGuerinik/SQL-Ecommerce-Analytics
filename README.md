@@ -4,7 +4,7 @@
 This project focuses on analyzing an **e-commerce dataset** using **advanced SQL querying techniques**. The goal is to clean the data, transform it, and extract meaningful business insights.  
 
 ## 🚀 Dataset  
-- **Source**: [Insert dataset link here]  
+- **Source**: [(https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)]  
 - **Description**: An e-commerce sales dataset from India containing three CSV files.  
 - **Tables**: `orders`, `order_details`, `sales_target`  
 
